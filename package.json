@@ -1,5 +1,6 @@
 {
   "name": "e-commerce-site",
+  "author": {"Gauri Singhal"},
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -33,6 +34,9 @@
       "last 1 safari version"
     ]
   },
+  "engines": {
+  "node": "16"
+},
   "devDependencies": {
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.33",
