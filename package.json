@@ -1,6 +1,5 @@
 {
   "name": "e-commerce-site",
-  "author": {"Gauri Singhal"},
   "version": "0.1.0",
   "private": true,
   "dependencies": {
