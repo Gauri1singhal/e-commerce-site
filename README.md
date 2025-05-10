@@ -29,3 +29,9 @@ npm run build
 ```
 
 Builds the app for production to the `build` folder.<br>
+
+### Deployed on Vercel
+
+```
+link: https://e-commerce-site-cc3usipv7-gauri-singhals-projects-fc8b9f73.vercel.app/
+```
